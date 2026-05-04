@@ -53,7 +53,7 @@
 3. Move it to your plugins folder:
 
    ```
-   BetterDiscord/plugins/
+   %appdata%\BetterDiscord\plugins
    ```
 4. Enable the plugin in Discord settings
 
