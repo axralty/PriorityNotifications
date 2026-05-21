@@ -110,7 +110,6 @@ You can preview sounds directly in settings:
 ## ⚠️ Notes
 
 * Volume above 100% may distort audio
-* Requires notification permission for desktop alerts
 * Only works for **DMs (not servers)**
 
 ---
